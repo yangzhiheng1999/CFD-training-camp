@@ -22,4 +22,5 @@
 
 - 代码文件
 
-    📂 1 Hydraulic Shock
+    📂 [1 Hydraulic Shock](https://github.com/yangzhiheng1999/CFD-training-camp/tree/main/01_Hydraulic_Shock)
+    ![水锤过程](https://github.com/yangzhiheng1999/CFD-training-camp/blob/main/01_Hydraulic_Shock/water_hammer.gif)
