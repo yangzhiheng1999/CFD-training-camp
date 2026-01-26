@@ -22,7 +22,7 @@
     
     [【谁做不出】水锤波模拟中你应该知道的事（2-方程离散）](https://mp.weixin.qq.com/s/OZFAkfwjxm0HzXhX9mVEog)
 
-    [【谁做不出】水锤波模拟中你应该知道的事（3-水锤波的周期及其他））]()
+    [【谁做不出】水锤波模拟中你应该知道的事（3-水锤波的周期及其他））](https://mp.weixin.qq.com/s/lSM2ZwZ1qYEcDt9yUOjI-w)
 
 - 代码文件
 
