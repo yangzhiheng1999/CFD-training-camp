@@ -19,6 +19,10 @@
     [【谁看不懂】水锤波中你需要知道的事（3-量级分析）](https://mp.weixin.qq.com/s/qWt3XPTNtwlM4SL7zIHMYw)
 
     [【谁做不出】水锤波模拟中你应该知道的事（1-特征线方法）](https://mp.weixin.qq.com/s/fkz7yRnQjfUmBy1WPucxPA)
+    
+    [【谁做不出】水锤波模拟中你应该知道的事（2-方程离散）](https://mp.weixin.qq.com/s/OZFAkfwjxm0HzXhX9mVEog)
+
+    [【谁做不出】水锤波模拟中你应该知道的事（3-水锤波的周期及其他））]()
 
 - 代码文件
 

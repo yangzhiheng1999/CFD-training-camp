@@ -90,12 +90,12 @@ for t_step in 1:nt
                grid=false)
 
     # 最终组合
-    # 每 20 步存一帧，极大提升生成速度
-    if t_step % 20 == 0 || t_step == nt
+    # 每 100 步存一帧，提升生成速度
+    if t_step % 100 == 0 || t_step == nt
         p_final = plot(p1, p2, p3, layout=(3, 1), size=(1200, 800), 
                         left_margin=10mm, right_margin=20mm, top_margin=15mm, bottom_margin=10mm)
         frame(anim, p_final)
     end
 end
 
-gif(anim, "water_hammer.gif", fps = 20)
+gif(anim, "water_hammer.gif", fps = 10)
